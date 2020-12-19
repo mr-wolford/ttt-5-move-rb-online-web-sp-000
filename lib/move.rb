@@ -13,4 +13,5 @@ def input_to_index(string)
 end
 
 def move(board, input_to_index, character = "X")
+  puts board
 end
